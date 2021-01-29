@@ -19,6 +19,11 @@
 }
 
 
+.card {
+    width: 25rem;
+}
+
+
 .parallax {
     /* The image used */
     background-image: url("../images/parallax\ \(1\).jpg");
@@ -47,6 +52,20 @@
     background-size: cover;
   }
 
+/*-----Responsive Changes--------*/
+
+@media (max-width: 767px) {
+
+
+    .col-md-6 {
+        padding-top: 65px;
+    }
+
+    .card {
+        width: 10000rem;
+    }
+
+}
 
 
 

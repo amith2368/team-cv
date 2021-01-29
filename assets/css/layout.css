@@ -68,7 +68,7 @@ h1, h5 {
         display: none;
     }
     body {
-        background: url('poster.jpg');
+        background: url('../images/parallax\ \(2\).jpg');
         background-size: cover;
     }
 }
